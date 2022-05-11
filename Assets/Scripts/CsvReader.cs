@@ -5,9 +5,9 @@ using UnityEngine;
 
 public class CsvReader
 {
-    public List<KanjiData> ReadKanjiFromCsv(string csvPath)
+    public List<KanjiInfo> ReadKanjiFromCsv(string csvPath)
     {
-        List<KanjiData> kanjiList = new List<KanjiData>();
+        List<KanjiInfo> kanjiList = new List<KanjiInfo>();
 
         StreamReader reader = new StreamReader(csvPath, true);
         // Get rid of headings line
@@ -34,13 +34,13 @@ public class CsvReader
 
                 currIndex++;
             }
-            KanjiData newData = new KanjiData() {
+            KanjiInfo newKanjiInfo = new KanjiInfo() {
                 KanjiChar = newRow.Substring(0,breakIndexes[0]).Trim('"'),
                 Pronunciation = newRow.Substring(breakIndexes[0]+1,breakIndexes[1]-breakIndexes[0]-1).Trim('"'),
                 Definition = newRow.Substring(breakIndexes[1]+1,breakIndexes[2]-breakIndexes[1]-1).Trim('"'),
                 JlptLevel = newRow.Substring(breakIndexes[2]+1,newRow.Length-breakIndexes[2]-1).Trim('"'),
             };
-            kanjiList.Add(newData);
+            kanjiList.Add(newKanjiInfo);
         }
         return kanjiList;
     }

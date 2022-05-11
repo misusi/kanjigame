@@ -1,16 +1,16 @@
 using System.Collections;
 using System.Collections.Generic;
 
-public class KanjiData
+public class KanjiInfo
 {
     public string KanjiChar;
     public string Pronunciation;
     public string Definition;
     public string JlptLevel;
-    public KanjiData()
+    public KanjiInfo()
     {
     }
-    public KanjiData(string[] _csvDataLine)
+    public KanjiInfo(string[] _csvDataLine)
     {
         KanjiChar = _csvDataLine[0];
         Pronunciation = _csvDataLine[1];
