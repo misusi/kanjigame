@@ -1,0 +1,7 @@
+SOUNDS
+    Correct Ding
+        https://freesound.org/people/LittleRainySeasons/sounds/335908/
+    Incorrect Buzz
+        https://freesound.org/people/Raclure/sounds/483598/
+    Other japanese voices
+

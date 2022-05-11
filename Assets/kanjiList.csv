@@ -1,0 +1,816 @@
+Kanji,Pronunciation,Definition,JLPT Level
+母,"bo","mother",N5
+聞,"bun","hear, ask, listen",N5
+長,"chou","long, leader, superior, senior",N5
+中,"chuu","in, inside, middle, center",N5
+円,"en","circle, yen, round",N5
+大,"dai","large, big",N5
+男,"dan","male",N5
+電,"den","electricity",N5
+土,"do","soil, earth, ground, Turkey",N5
+読,"doku","read",N5
+父,"fu","father",N5
+外,"gai","outside",N5
+学,"gaku","study, learning, science",N5
+月,"getsu","month, moon",N5
+後,"go","behind, back, later",N5
+五,"go","five",N5
+午,"go","noon, sign of the horse",N5
+語,"go","word, speech, language",N5
+八,"hachi","eight, eight radical",N5
+白,"haku","white",N5
+半,"han","half, middle, odd number, semi-, part-",N5
+北,"hoku","north",N5
+百,"hyaku","hundred",N5
+本,"hon","book, present, main, origin, true, real",N5
+時,"ji","time, hour",N5
+人,"jin","person",N5
+女,"jo","woman, female",N5
+上,"jou","above, up",N5
+十,"juu","ten",N5
+火,"ka","fire",N5
+下,"ka","below, down, descend, give, low, inferior",N5
+何,"ka","what",N5
+間,"kan","interval, space",N5
+見,"ken","see, hopes, chances, idea, opinion, look at, visible",N5
+気,"ki","spirit, mind, air, atmosphere, mood",N5
+金,"kin","gold",N5
+古,"ko","old",N5
+校,"kou","exam, school, printing, proof, correction",N5
+国,"koku","country",N5
+今,"kon","now",N5
+高,"kou","tall, high, expensive",N5
+行,"kou","going, journey, carry out, conduct, act, line, row, bank",N5
+休,"kyuu","rest, day off, retire, sleep",N5
+九,"kyuu","nine",N5
+毎,"mai","every",N5
+万,"man","ten thousand",N5
+名,"mei","name, noted, distinguished, reputation",N5
+南,"nan","south",N5
+年,"nen","year, counter for years",N5
+二,"ni","two, two radical",N5
+日,"nichi","day, sun, Japan, counter for days",N5
+入,"nyuu","enter, insert",N5
+来,"rai","come, due, next, cause, become",N5
+六,"roku","six",N5
+左,"sa","left",N5
+三,"san","three",N5
+山,"san","mountain",N5
+書,"sho","write",N5
+生,"sei","life, genuine, birth",N5
+西,"sei","west, Spain",N5
+先,"sen","before, ahead, previous, future, precedence",N5
+川,"sen","stream, river",N5
+千,"sen","thousand",N5
+車,"sha","car",N5
+四,"shi","four",N5
+子,"shi","child, sign of the rat",N5
+七,"shichi","seven",N5
+食,"shoku","eat, food",N5
+小,"shou","little, small",N5
+出,"shutsu","exit, leave, go out, come out, put out",N5
+水,"sui","water",N5
+天,"ten","heavens, sky, imperial",N5
+東,"tou","east",N5
+雨,"u","rain",N5
+話,"wa","tale, talk",N5
+友,"yuu","friend",N5
+右,"yuu","right",N5
+前,"zen","in front, before",N5
+悪,"aku","bad, evil",N4
+安,"an","relax, cheap",N4
+場,"ba","location, place",N4
+売,"bai","sell",N4
+買,"bai","buy",N4
+勉,"ben","strive, make effort",N4
+別,"betsu","separate",N4
+文,"bun","sentence, literature",N4
+物,"butsu","thing, object",N4
+病,"byou","ill, sick",N4
+茶,"cha","tea",N4
+着,"chaku","arrive, wear",N4
+地,"chi","ground, earth",N4
+知,"chi","know, wisdom",N4
+朝,"chou","morning, dynasty",N4
+町,"chou","town, village",N4
+鳥,"chou","bird, chicken",N4
+注,"chuu","pour, concentrate on",N4
+昼,"chuu","daytime, noon",N4
+代,"dai","substitute, change",N4
+題,"dai","topic, subject",N4
+台,"dai","pedestal, a stand",N4
+田,"den","rice field",N4
+度,"do","degrees",N4
+同,"dou","same, equal",N4
+動,"dou","move, motion",N4
+道,"dou","road-way, course",N4
+堂,"dou","public chamber, hall",N4
+映,"ei","reflection",N4
+英,"ei","England, hero",N4
+駅,"eki","station",N4
+不,"fu","negative, non-",N4
+服,"fuku","clothing, obey",N4
+風,"fuu","wind, style",N4
+言,"gen","say, word",N4
+元,"gen","beginning, origin",N4
+銀,"gin","silver",N4
+魚,"gyo","fish",N4
+業,"gyou","business",N4
+牛,"gyuu","cow",N4
+飯,"han","meal, boiled rice",N4
+発,"hatsu","departure, discharge",N4
+品,"hin","goods, article",N4
+歩,"ho","walk",N4
+方,"hou","direction",N4
+意,"i","idea, mind",N4
+以,"i","by means of",N4
+医,"i","doctor, medicine",N4
+員,"in","employee, member",N4
+院,"in","institution",N4
+飲,"in","drink",N4
+事,"ji","matter, thing",N4
+自,"ji","oneself",N4
+持,"ji","hold, have",N4
+字,"ji","character, letter",N4
+重,"juu","heavy, important",N4
+住,"juu","dwell, reside",N4
+家,"ka","home, family",N4
+歌,"ka","song, sing",N4
+花,"ka","flower",N4
+夏,"ka","summer",N4
+会,"kai","meeting",N4
+開,"kai","open, unfold",N4
+界,"kai","world, boundary",N4
+海,"kai","sea, ocean",N4
+画,"kaku","picture",N4
+館,"kan","building",N4
+漢,"kan","Sino-, China",N4
+計,"kei","plot, plan",N4
+兄,"kei","elder brother",N4
+建,"ken","build",N4
+犬,"ken","dog",N4
+研,"ken","polish, study of",N4
+験,"ken","verification, effect",N4
+起,"ki","rouse, wake up",N4
+帰,"ki","homecoming, arrive at",N4
+近,"kin","near, early",N4
+古,"ko","old",N4
+黒,"koku","black",N4
+公,"kou","public, official",N4
+考,"kou","consider, think over",N4
+口,"kou","mouth",N4
+広,"kou","wide, broad",N4
+工,"kou","craft, construction",N4
+空,"kuu","empty, sky",N4
+去,"kyo","gone, past",N4
+京,"kyou","capital",N4
+強,"kyou","strong",N4
+教,"kyou","teach, faith",N4
+急,"kyuu","hurry, sudden",N4
+究,"kyuu","research, study",N4
+妹,"mai","younger sister",N4
+味,"mi","flavor, taste",N4
+明,"mei","bright, light",N4
+目,"moku","eye, look",N4
+問,"mon","question, ask",N4
+無,"mu","nothingness, none",N4
+肉,"niku","meat",N4
+屋,"oku","roof, house",N4
+音,"on","sound, noise",N4
+楽,"raku","music, comfort",N4
+理,"ri","logic, reason",N4
+立,"ritsu","stand up",N4
+旅,"ryo","trip, travel",N4
+料,"ryou","fee, materials",N4
+力,"ryoku","power, strength",N4
+作,"saku","make, build",N4
+世,"se","generation, world",N4
+正,"sei","correct, justice",N4
+青,"sei","blue, green",N4
+赤,"seki","red",N4
+夕,"seki","evening",N4
+切,"setsu","cut, cutoff",N4
+社,"sha","company, firm",N4
+者,"sha","person, someone",N4
+写,"sha","copy, be photographed",N4
+借,"shaku","borrow, rent",N4
+思,"shi","think",N4
+使,"shi","use, envoy",N4
+紙,"shi","paper",N4
+死,"shi","death, die",N4
+私,"shi","private, me",N4
+始,"shi","begin, commence",N4
+止,"shi","stop, halt",N4
+試,"shi","test, try",N4
+仕,"shi","attend, doing",N4
+姉,"shi","elder sister",N4
+新,"shin","new",N4
+心,"shin","heart, mind",N4
+真,"shin","true, reality",N4
+親,"shin","parent, intimacy",N4
+質,"shitsu","substance, quality",N4
+室,"shitsu","room, chamber",N4
+色,"shoku","color",N4
+少,"shou","few, little",N4
+手,"shu","hand",N4
+主,"shu","lord, chief",N4
+春,"shun","springtime, spring",N4
+集,"shuu","gather, meet",N4
+終,"shuu","end, finish",N4
+週,"shuu","week",N4
+秋,"shuu","autumn",N4
+習,"shuu","learn",N4
+足,"soku","leg, be sufficient",N4
+送,"sou","escort, send",N4
+早,"sou","early, fast",N4
+走,"sou","run",N4
+多,"ta","many, much",N4
+体,"tai","body, object",N4
+待,"tai","wait, depend on",N4
+貸,"tai","lend",N4
+弟,"tei","younger brother",N4
+転,"ten","revolve, turn around",N4
+店,"ten","store, shop",N4
+特,"toku","special",N4
+答,"tou","solution, answer",N4
+冬,"tou","winter",N4
+通,"tsuu","pass through",N4
+運,"un","carry, luck",N4
+野,"ya","plains, field",N4
+夜,"ya","night, evening",N4
+用,"you","utilize, use",N4
+洋,"you","sea, Western style",N4
+曜,"you","weekday",N4
+有,"yuu","possess, have",N4
+族,"zoku","tribe, family",N4
+図,"zu","map, drawing",N4
+愛,"ai","love, affection",N3
+暗,"an","darkness, shade",N3
+馬,"ba","horse",N3
+番,"ban","turn, number in a series",N3
+晩,"ban","nightfall, night",N3
+抜,"batsu","slip out, extract",N3
+米,"bei","rice, metre",N3
+便,"ben","convenience, excrement",N3
+備,"bi","equip, preparation",N3
+美,"bi","beauty, beautiful",N3
+暮,"bo","evening, livelihood",N3
+望,"bou","ambition, hope, desire",N3
+亡,"bou","deceased, dying",N3
+忘,"bou","forget",N3
+忙,"bou","busy, occupied",N3
+部,"bu","section, portion",N3
+舞,"bu","dance, flit, circle",N3
+猫,"byou","cat",N3
+置,"chi","placement, put, set",N3
+値,"chi","price, cost, value",N3
+遅,"chi","slow, late, back",N3
+恥,"chi","shame, dishonor",N3
+直,"choku","straightaway, repair",N3
+調,"chou","tune, investigate",N3
+頂,"chou","top, summit, peak",N3
+打,"da","strike, hit, knock",N3
+談,"dan","discuss, talk",N3
+断,"dan","severance, refuse",N3
+段,"dan","grade, steps, stairs",N3
+伝,"den","transmit, report",N3
+努,"do","toil, digilent",N3
+怒,"do","angry, be offended",N3
+働,"dou","work",N3
+泳,"ei","swim",N3
+易,"eki","easy, simple",N3
+演,"en","performance, act, stage",N3
+園,"en","park, garden, yard",N3
+俺,"en","I, myself",N3
+遠,"en","distant, far",N3
+煙,"en","smoke",N3
+越,"etsu","surpass, cross over",N3
+付,"fu","adhere, attach, append",N3
+夫,"fu","husband, man",N3
+負,"fu","defeat, negative",N3
+富,"fu","wealth, enrich, abundant",N3
+婦,"fu","lady, woman, wife",N3
+浮,"fu","floating, float",N3
+怖,"fu","dreadful, fearful",N3
+福,"fuku","blessing, fortune",N3
+腹,"fuku","abdomen, belly",N3
+払,"futsu","pay, clear out, banish",N3
+害,"gai","harm, injury",N3
+顔,"gan","face, expression",N3
+願,"gan","petition, request, vow",N3
+迎,"gei","welcome, meeet, greet",N3
+現,"gen","present, existing",N3
+原,"gen","meadow, primitive",N3
+限,"gen","limit, restrict",N3
+議,"gi","deliberation, debate",N3
+疑,"gi","doubt, distrust",N3
+互,"go","mutually, together",N3
+誤,"go","mistake, err, mislead",N3
+合,"gou","fit, suit",N3
+号,"gou","number, nickname",N3
+具,"gu","tool, utensil, means",N3
+偶,"guu","accidentally",N3
+御,"gyo","honorable, manipulate",N3
+破,"ha","rip, tear, destroy",N3
+配,"hai","distribute, rationing",N3
+敗,"hai","failure, defeat",N3
+背,"hai","stature, height",N3
+杯,"hai","glass, toast",N3
+反,"han","anti-",N3
+判,"han","judgement, seal",N3
+犯,"han","crime, sin, offense",N3
+平,"hei","even, flat, peace",N3
+閉,"hei","closed, shut",N3
+変,"hen","change, strange",N3
+返,"hen","return, answer, repay",N3
+費,"hi","expense, cost, spend",N3
+非,"hi","un-, non-, negative",N3
+否,"hi","negate, no, decline",N3
+飛,"hi","fly, skip, scatter",N3
+彼,"hi","he, that, the",N3
+悲,"hi","grieve, sad, regret",N3
+疲,"hi","exhausted, tire, weary",N3
+貧,"hin","poverty, poor",N3
+必,"hitsu","inevitable, certain",N3
+捕,"ho","catch, capture",N3
+法,"hou","method, law, rule",N3
+報,"hou","report, news, reward",N3
+放,"hou","set free, release",N3
+訪,"hou","call on, visit, look up",N3
+抱,"hou","embrace, hug",N3
+表,"hyou","surface, chart",N3
+位,"i","rank, grade, throne",N3
+違,"i","difference, differ",N3
+偉,"i","admirable, greatness",N3
+育,"iku","bring up, grow up",N3
+引,"in","pull, admit, quote",N3
+因,"in","cause, factor, depend on",N3
+若,"jaku","young, immature",N3
+治,"ji","reign, cure, heal",N3
+次,"ji","next, sequence",N3
+示,"ji","show, indicate, display",N3
+辞,"ji","resign, expression",N3
+似,"ji","resemble, imitate",N3
+耳,"ji","ear",N3
+実,"jitsu","reality, truth",N3
+助,"jo","help, assist, rescue",N3
+除,"jo","exclude, remove, cancel",N3
+情,"jou","feelings, emotion",N3
+常,"jou","usual, ordinary, normal",N3
+状,"jou","status quo, conditions",N3
+乗,"jou","ride, board",N3
+娘,"jou","daughter, girl",N3
+受,"ju","accept, take, get",N3
+術,"jutsu","art, technique, skill",N3
+化,"ka","change, -ization",N3
+加,"ka","add, addition",N3
+過,"ka","overdo, exceed, error",N3
+果,"ka","fruit, achieve, finish",N3
+科,"ka","department, course",N3
+靴,"ka","shoes",N3
+回,"kai","-times, round",N3
+絵,"kai","picture, drawing",N3
+解,"kai","explanation, solve",N3
+掛,"kai","hang, suspend",N3
+皆,"kai","all, everything",N3
+確,"kaku","assurance, firm, clear",N3
+格,"kaku","status, character",N3
+覚,"kaku","memorize, remember",N3
+関,"kan","connection, involve",N3
+官,"kan","bureaucrat, organ",N3
+感,"kan","emotion, feeling",N3
+観,"kan","outlook, appearance",N3
+完,"kan","perfect, completion",N3
+慣,"kan","accustomed, get used to",N3
+寒,"kan","cold",N3
+活,"katsu","lively, living",N3
+割,"katsu","proportion, divide",N3
+髪,"katsu","hair of the head",N3
+経,"kei","pass thru, longtitude",N3
+係,"kei","person in charge, connection",N3
+警,"kei","admonish, commandment",N3
+形,"kei","shape, form, style",N3
+景,"kei","scenery, view",N3
+権,"ken","authority, power",N3
+件,"ken","affair, case, matter",N3
+険,"ken","precipitous",N3
+決,"ketsu","decide, agree upon",N3
+欠,"ketsu","lack, gap, fail",N3
+期,"ki","period, time, term",N3
+機,"ki","mechanism, machine",N3
+記,"ki","scribe, narrative",N3
+規,"ki","standard, measure",N3
+危,"ki","dangerous, fear, uneasy",N3
+寄,"ki","draw near, gather",N3
+喜,"ki","rejoice, take pleasure in",N3
+幾,"ki","how many, how much",N3
+勤,"kin","diligence, serve",N3
+呼,"ko","call, call out to",N3
+告,"koku","revelation, tell",N3
+刻,"koku","engrave, carving",N3
+込,"komi","crowded, mixture",N3
+婚,"kon","marriage",N3
+困,"kon","become distressed",N3
+交,"kou","mingle, mixing",N3
+向,"kou","yonder, facing",N3
+構,"kou","posture, build",N3
+好,"kou","fond, pleasing",N3
+港,"kou","harbor",N3
+候,"kou","climate, season",N3
+光,"kou","ray, light",N3
+降,"kou","descend, fall",N3
+幸,"kou","happiness, blessing",N3
+更,"kou","grow late, renew",N3
+苦,"ku","suffering, trial, worry",N3
+君,"kun","mister, you, ruler",N3
+客,"kyaku","guest, visitor",N3
+許,"kyo","permit, approve",N3
+居,"kyo","reside, to be, exist",N3
+局,"kyoku","bureau, office",N3
+曲,"kyoku","bend, music, melody",N3
+共,"kyou","together, both",N3
+供,"kyou","submit, offer",N3
+恐,"kyou","fear, dread, awe",N3
+求,"kyuu","request, demand",N3
+球,"kyuu","ball, sphere",N3
+給,"kyuu","salary, wage, grant",N3
+吸,"kyuu","suck, inhale, sip",N3
+満,"man","full, enough, satisfy",N3
+末,"matsu","end, close, tip",N3
+命,"mei","fate, destiny, life",N3
+迷,"mei","astray, in doubt, lost",N3
+鳴,"mei","chirp, cry, bark, echo",N3
+面,"men","mask, face, features",N3
+未,"mi","un-, not yet, still",N3
+民,"min","people, nation",N3
+眠,"min","sleep, die, sleepy",N3
+務,"mu","task, duties",N3
+夢,"mu","dream, vision, illusion",N3
+内,"nai","inside, within",N3
+難,"nan","difficult, trouble",N3
+念,"nen","wish, sense, thought",N3
+熱,"netsu","heat, temperature",N3
+認,"nin","acknowledge, discern",N3
+任,"nin","responsibility, duty",N3
+能,"nou","ability, talent, skill",N3
+横,"ou","sideways, horizontal",N3
+王,"ou","king, rule, magnate",N3
+押,"ou","push, stop, seize",N3
+頼,"rai","trust, request",N3
+落,"raku","fall, drop, come down",N3
+例,"rei","example, precedent",N3
+冷,"rei","cool, cold, chill",N3
+戻,"rei","re-, return, resume",N3
+礼,"rei","salute, bow, ceremony",N3
+連,"ren","take along, join",N3
+列,"retsu","file, row, column",N3
+利,"ri","profit, advantage",N3
+路,"ro","path, route, road",N3
+論,"ron","argument, discourse",N3
+労,"rou","labor, toil, trouble",N3
+老,"rou","old man, old age",N3
+類,"rui","sort, variety, kind",N3
+両,"ryou","both, two",N3
+良,"ryou","good, pleasing",N3
+流,"ryuu","current, flow",N3
+留,"ryuu","detain, fasten, stop",N3
+差,"sa","distinction, difference",N3
+最,"sai","utmost, extreme",N3
+済,"sai","settle, finish",N3
+歳,"sai","age, occasion",N3
+際,"sai","occasion, when, side",N3
+妻,"sai","wife, spouse",N3
+才,"sai","genius, years old",N3
+昨,"saku","yesterday, previous",N3
+産,"san","products, give birth",N3
+参,"san","participate, visiting",N3
+散,"san","scatter, disperse",N3
+賛,"san","praise, agree with",N3
+察,"satsu","guess, presume",N3
+殺,"satsu","kill, murder, butcher",N3
+政,"sei","politics, government",N3
+性,"sei","sex, gender, nature",N3
+制,"sei","system, law, rule",N3
+成,"sei","turn into, grow",N3
+声,"sei","voice",N3
+精,"sei","refined, energy, skill",N3
+静,"sei","quiet",N3
+晴,"sei","clear up",N3
+石,"seki","stone",N3
+席,"seki","seat, place",N3
+積,"seki","volume, pile up, load",N3
+責,"seki","balem, condemn",N3
+雪,"seki","snow",N3
+昔,"seki","once upon a time",N3
+選,"sen","select, choose",N3
+戦,"sen","war, battle",N3
+船,"sen","ship, boat",N3
+洗,"sen","wash, inquire into",N3
+説,"setsu","opinion, theory",N3
+折,"setsu","fold, break, bend",N3
+市,"shi","market, city, town",N3
+指,"shi","finger, point to",N3
+支,"shi","branch, support",N3
+資,"shi","assets, resources",N3
+師,"shi","expert, master, teacher",N3
+歯,"shi","tooth, cog",N3
+式,"shiki","style, ceremony, rite",N3
+識,"shiki","discriminating, know",N3
+進,"shin","advance, progress",N3
+神,"shin","gods, mind, soul",N3
+信,"shin","faith, fidelity, trust",N3
+深,"shin","deep, strengthen",N3
+申,"shin","have the honor to",N3
+身,"shin","somebody, person",N3
+寝,"shin","lie down, sleep, rest",N3
+失,"shitsu","lose, error, fault",N3
+初,"sho","first time, beginning",N3
+所,"sho","place, extent",N3
+処,"sho","dispose, deal with",N3
+緒,"sho","thong, inception, cord",N3
+職,"shoku","post, employment",N3
+勝,"shou","victory, win, prevail",N3
+消,"shou","extinguish, blow out",N3
+商,"shou","make a deal, selling",N3
+招,"shou","beckon, invite",N3
+笑,"shou","laugh",N3
+首,"shu","neck",N3
+取,"shu","take, fetch",N3
+守,"shu","guard, protect, obey",N3
+種,"shu","species, kind, variety",N3
+酒,"shu","sake, alcohol",N3
+宿,"shuku","inn, lodging, dwell",N3
+収,"shuu","income, obtain, pay",N3
+組,"so","association, unite",N3
+祖,"so","ancestor, founder",N3
+側,"soku","side, lean, oppose",N3
+速,"soku","quick, fast",N3
+息,"soku","breath, respiration",N3
+束,"soku","bundle, control",N3
+存,"son","exist, be aware of",N3
+相,"sou","inter-, mutual",N3
+争,"sou","dispute, argue",N3
+想,"sou","concept, think, idea",N3
+草,"sou","grass, weeds, herbs",N3
+窓,"sou","window, pane",N3
+箱,"sou","box, chest, case",N3
+吹,"sui","blow, breathe, smoke",N3
+誰,"sui","who, someone",N3
+数,"suu","number, figures",N3
+他,"ta","other, another",N3
+対,"tai","opposite, compare",N3
+太,"tai","plump, thick",N3
+退,"tai","retreat, withdraw, retire",N3
+宅,"taku","home, house, residence",N3
+単,"tan","simple, one, merely",N3
+探,"tan","grope, search, look for",N3
+達,"tatsu","accomplished, arrive",N3
+定,"tei","determine, decide",N3
+程,"tei","extent, degree, limits",N3
+庭,"tei","courtyard, garden",N3
+適,"teki","suitable, qualified",N3
+点,"ten","spot, point, mark",N3
+都,"to","metropolis, capital",N3
+渡,"to","transit, ford, cross",N3
+途,"to","route, way, road",N3
+徒,"to","junior, on foot",N3
+得,"toku","gain, get, earn",N3
+突,"totsu","thrust, pierce, prick",N3
+当,"tou","hit, right, appropriate",N3
+頭,"tou","head, counter for large animals",N3
+登,"tou","ascend, climb up",N3
+投,"tou","throw, abandon, discard",N3
+倒,"tou","overthrow, fall, collapse",N3
+等,"tou","etc., equal, similar",N3
+逃,"tou","escape, flee, evade",N3
+到,"tou","arrival, proceed, reach",N3
+盗,"tou","steal, rob",N3
+追,"tsui","chase, pursue, follow",N3
+痛,"tsuu","pain, hurt, damage",N3
+和,"wa","harmony, peace",N3
+約,"yaku","promise, approximately",N3
+役,"yaku","duty, service, role",N3
+薬,"yaku","medicine, chemical",N3
+予,"yo","beforehand, previous",N3
+与,"yo","bestow, give, award",N3
+余,"yo","too much, surplus",N3
+欲,"yoku","longing, greed, passion",N3
+要,"you","need, main point",N3
+容,"you","contain, form, looks",N3
+葉,"you","leaf, blade",N3
+様,"you","manner, situation",N3
+陽,"you","sunshine, daytime",N3
+由,"yu","wherefore, a reason",N3
+優,"yuu","tenderness, excel, actor",N3
+遊,"yuu","play",N3
+座,"za","seat, squat, sit",N3
+在,"zai","exist, located in",N3
+財,"zai","property, wealth, assets",N3
+罪,"zai","guilt, sin, crime",N3
+残,"zan","remainder, leftover",N3
+雑,"zatsu","miscellaneous",N3
+全,"zen","whole, entire, all",N3
+然,"zen","so, sort of thing",N3
+絶,"zetsu","discontinue, sever",N3
+続,"zoku","continue, series",N3
+増,"zou","increase, gain",N3
+党,touトウ,"party, faction, clique",N2
+協,kyouキョウ,"co-, cooperation",N2
+総,souソウ,"general, whole, all",N2
+区,kuク,"ward, district",N2
+領,ryouリョウ,"jurisdiction, dominion",N2
+県,kenケン,"prefecture",N2
+設,setsuセツ,"establishment, provision",N2
+保,"ho, houホ、ホウ","protect, guarantee, keep",N2
+改,kaiカイ,"reformation, change, modify",N2
+第,daiダイ,"No., number",N2
+結,ketsuケツ,"tie, bind, contract",N2
+派,haハ,"faction, group, party",N2
+府,fuフ,"borough, urban prefecture, govt office",N2
+査,saサ,"investigate",N2
+委,iイ,"committee, entrust to",N2
+軍,gunグン,"army, force, troops",N2
+案,anアン,"plan, suggestion, draft",N2
+策,sakuサク,"scheme, plan, policy",N2
+団,"dan, tonダン、トン","group, association",N2
+各,kakuカク,"each, every, either",N2
+島,touトウ,"island",N2
+革,kakuカク,"leather, skin, reform, become serious",N2
+村,sonソン,"village, town",N2
+勢,seiセイ,"forces, energy, military strength",N2
+減,genゲン,"dwindle, decrease, reduce",N2
+再,"sai, saサイ、 サ","again, twice, second time",N2
+税,zeiゼイ,"tax, duty",N2
+営,eiエイ,"occupation, camp, perform, build, conduct (business)",N2
+比,hiヒ,"compare, race, ratio",N2
+防,bouボウ,"ward off, defend, protect, resist",N2
+補,hoホ,"supplement, supply, offset, compensate",N2
+境,kyouキョウ,"boundary, border, region",N2
+導,douドウ,"guidance, leading, conduct, usher",N2
+副,fukuフク,"vice-, assistant, aide, duplicate, copy",N2
+算,sanサン,"calculate, divining, number, probability",N2
+輸,"yu, shuユ、 シュ","transport, send, be inferior",N2
+述,jutsuジュツ,"mention, state, speak",N2
+線,senセン,"line, track",N2
+農,nouノウ,"agriculture, farmers",N2
+州,shuuシュウ,"state, province",N2
+武,"bu, muブ、 ム","warrior, military, chivalry, arms",N2
+象,"shou, zouショウ、 ゾウ","elephant, pattern after, image, shape",N2
+域,ikiイキ,"range, region, limits, stage, level",N2
+額,gakuガク,"forehead, tablet, framed picture, sum, amount, volume",N2
+欧,ouオウ,"Europe",N2
+担,tanタン,"shouldering, carry, raise, bear",N2
+準,junジュン,"semi-, correspond to, imitate",N2
+賞,shouショウ,"prize, reward, praise",N2
+辺,henヘン,"environs, boundary, border, vicinity",N2
+造,zouゾウ,"create, make, structure, physique",N2
+被,hiヒ,"incur, cover, shelter, wear, put on",N2
+技,giギ,"skill, art, craft, ability, vocation, arts",N2
+低,teiテイ,"lower, short, humble",N2
+復,fukuフク,"restore, return to, revert",N2
+移,iイ,"shift, move, change",N2
+個,koコ,"individual, counter for articles",N2
+門,monモン,"gate",N2
+課,kaカ,"chapter, lesson, section, department",N2
+脳,nouノウ,"brain, memory",N2
+極,"kyoku, gokuキョク、 ゴク","poles, settlement, conclusion, end",N2
+含,ganガン,"contain, include",N2
+蔵,zouゾウ,"storehouse, hide, own, have, possess",N2
+量,ryouリョウ,"quantity, measure, weight, amount",N2
+型,keiケイ,"type, model",N2
+況,kyouキョウ,"condition, situation",N2
+針,shinシン,"needle, pin, staple, stinger",N2
+専,senセン,"specialty, exclusive, mainly, solely",N2
+谷,kokuコク,"valley",N2
+史,shiシ,"history, chronicle",N2
+階,kaiカイ,"stair, counter for building story",N2
+管,kanカン,"pipe, tube, wind instrument, control, jurisdiction,",N2
+兵,"hei, hyouヘイ、 ヒョウ","soldier, private, troops, army",N2
+接,setsuセツ,"touch, contact, adjoin, piece together",N2
+細,seiサイ,"slender, narrow, detailed, precise",N2
+効,kouコウ,"merit, efficacy, efficiency, benefit",N2
+丸,ganガン,"round, full (month), perfection",N2
+湾,wanワン,"gulf, bay, inlet",N2
+録,rokuロク,"record",N2
+省,"sei, shouセイ、 ショウ","focus, government ministry, conserve",N2
+旧,kyuuキュウ,"old times, old things, former, ex-",N2
+橋,kyouキョウ,"bridge",N2
+岸,ganガン,"beach",N2
+周,shuuシュウ,"circumference, circuit, lap",N2
+材,zaiザイ,"lumber, log, timber, wood",N2
+戸,koコ,"door, counter for houses",N2
+央,ouオウ,"center, middle",N2
+券,kenケン,"ticket",N2
+編,henヘン,"compilation, knit, braid, twist, editing",N2
+捜,souソウ,"search, look for, locate",N2
+竹,chikuチク,"bamboo",N2
+超,chouチョウ,"transcend, super-, ultra-",N2
+並,heiヘイ,"row, and, besides",N2
+療,ryouリョウ,"heal, cure",N2
+採,saiサイ,"pick, take, fetch, take up",N2
+森,shinシン,"forest, woods",N2
+競,"kyou, keiキョウ、 ケイ","compete with, bid, contest, race",N2
+介,kaiカイ,"jammed in, shellfish, mediate",N2
+根,konコン,"root, radical",N2
+販,hanハン,"marketing, sell, trade",N2
+歴,rekiレキ,"curriculum, continuation, passage of time",N2
+将,shouショウ,"leader, commander, general, admiral",N2
+幅,fukuフク,"hanging scroll, width",N2
+般,hanハン,"carrier, carry, all, general, sort, kind",N2
+貿,bouボウ,"trade, exchange",N2
+講,kouコウ,"lecture, club, association",N2
+林,rinリン,"grove, forest",N2
+装,"sou, shouソウ、 ショウ","attire, dress, pretend, disguise",N2
+諸,shoショ,"various, many, several, together",N2
+劇,gekiゲキ,"drama, play",N2
+河,kaカ,"river",N2
+航,kouコウ,"navigate, sail, cruise, fly",N2
+鉄,tetsuテツ,"iron",N2
+児,jiジ,"newborn babe, child",N2
+禁,kinキン,"prohibition, ban, forbid",N2
+印,inイン,"stamp, seal, mark, symbol, trademark,",N2
+逆,gyakuギャク,"inverted, reverse, opposite",N2
+換,kanカン,"interchange, period, change, convert, replace, renew",N2
+久,"kyuu, kuキュウ、 ク","long time, old story",N2
+短,tanタン,"short, fault, defect, weak point",N2
+油,yuユ,"oil, fat",N2
+暴,"bou, bakuボウ、 バク","outburst, force, violence",N2
+輪,rinリン,"wheel, ring, circle, link, loop, counter for wheels and flowers",N2
+占,senセン,"fortune-telling, divining, forecasting",N2
+植,shokuショク,"plant",N2
+清,seiセイ,"pure, purify, cleanse",N2
+倍,baiバイ,"double, twice, times, fold",N2
+均,kinキン,"level, average",N2
+億,okuオク,"hundred million, 10**8",N2
+圧,atsuアツ,"pressure, push, overwhelm, oppress",N2
+芸,geiゲイ,"technique, art, craft, performance, acting",N2
+署,shoショ,"signature, govt office, police station",N2
+伸,shinシン,"expand, stretch, extend",N2
+停,teiテイ,"halt, stopping",N2
+爆,bakuバク,"bomb, burst open",N2
+陸,"riku, rokuリク、 ロク","land, six",N2
+玉,gyokuギョク,"jewel, ball",N2
+波,haハ,"waves, billows",N2
+帯,taiタイ,"sash, belt, obi, zone, region",N2
+延,enエン,"prolong, stretching",N2
+羽,uウ,"feathers; counter for birds, rabbits",N2
+固,koコ,"harden, set, clot, curdle",N2
+則,sokuソク,"rule, follow, based on",N2
+乱,ranラン,"riot, war, disorder, disturb",N2
+普,fuフ,"universal, generally",N2
+測,sokuソク,"fathom, plan, scheme, measure",N2
+豊,"hou, buホウ、 ブ","bountiful, excellent, rich",N2
+厚,kouコウ,"thick, heavy, rich",N2
+齢,reiレイ,"age",N2
+囲,iイ,"surround, enclosure, preserve, keep",N2
+卒,sotsuソツ,"graduate, soldier, private, die",N2
+略,ryakuリャク,"abbreviation, omission, outline, shorten",N2
+承,shouショウ,"hear, listen to, be informed, receive",N2
+順,junジュン,"obey, order, turn, occasion",N2
+岩,ganガン,"boulder, rock, cliff",N2
+練,renレン,"practice, gloss, train, drill, polish, refine",N2
+軽,keiケイ,"lightly, trifling, unimportant",N2
+了,ryouリョウ,"complete, finish",N2
+庁,chouチョウ,"government office",N2
+城,"jou, seiジョウ、 セイ","castle",N2
+患,kanカン,"afflicted, disease, suffer from, be ill",N2
+層,souソウ,"stratum, social class, layer, story, floor",N2
+版,hanハン,"printing block, edition, impression, label",N2
+令,reiレイ,"orders, command, decree",N2
+角,kakuカク,"angle, corner, square",N2
+絡,rakuラク,"entwine, coil around, get caught in",N2
+損,sonソン,"damage, loss, disadvantage, hurt, injure",N2
+募,boボ,"recruit, campaign",N2
+裏,riリ,"back, reverse, inside, rear",N2
+仏,butsuブツ,"Buddha, the dead",N2
+績,sekiセキ,"exploits, achievements",N2
+築,chikuチク,"fabricate, build, construct",N2
+貨,kaカ,"freight, goods, property",N2
+混,konコン,"mix, blend, confuse",N2
+昇,shouショウ,"rise up",N2
+池,chiチ,"pond, pool, reservoir",N2
+血,ketsuケツ,"blood",N2
+温,onオン,"warm",N2
+季,kiキ,"seasons",N2
+星,seiセイ,"star",N2
+永,eiエイ,"eternity, long, lengthy",N2
+著,"cho, chakuチョ、 チャク","renowned, publish, write",N2
+誌,shiシ,"document, records",N2
+庫,"ko, kuコ、 ク","warehouse, storehouse",N2
+刊,kanカン,"publish, carve, engrave",N2
+像,zouゾウ,"statue, picture, image, figure",N2
+香,"kou, kyouコウ、 キョウ","incense, smell, perfume",N2
+坂,hanハン,"slope, incline, hill",N2
+底,teiテイ,"bottom, sole, depth, bottom price",N2
+布,fuフ,"linen, cloth, spread, distribute",N2
+寺,jiジ,"Buddhist temple",N2
+宇,uウ,"eaves, roof, house, heaven",N2
+巨,kyoキョ,"gigantic, big, large, great",N2
+震,shinシン,"quake, shake, tremble, quiver",N2
+希,kiキ,"hope, beg, request, pray",N2
+触,shokuショク,"contact, touch, feel, hit, proclaim, announce",N2
+依,"i, eイ、 エ","reliant, depend on, consequently, therefore, due to",N2
+籍,sekiセキ,"enroll, register, membership",N2
+汚,oオ,"dirty, pollute, disgrace, defile",N2
+枚,"mai, baiマイ、 バイ","sheet of..., counter for flat thin objects",N2
+複,fukuフク,"duplicate, double, compound, multiple",N2
