@@ -2,51 +2,46 @@ using System.Collections;
 using System.Collections.Generic;
 using TMPro;
 using UnityEngine;
+using UnityEngine.UI;
 
 namespace KanjiCard
 {
 
 public class Card : MonoBehaviour
 {
-    KanjiInfo currentKanji = new KanjiInfo();
-    CardDataHandler cardDataHandler;
-    TextMeshProUGUI kanjiText;
-    TextMeshProUGUI pronunciationText;
-    TextMeshProUGUI definitionText;
+    private KanjiInfo m_currentKanji = new KanjiInfo();
+    [SerializeField] private Button m_button;
+    [SerializeField] private TextMeshProUGUI m_kanjiText;
+    [SerializeField] private TextMeshProUGUI m_pronunciationText;
+    [SerializeField] private TextMeshProUGUI m_definitionText;
 
     void Start()
     {
-        // Retrieve Kanji List from CSV
-        cardDataHandler = FindObjectOfType<CardDataHandler>();
-        if (!cardDataHandler)
-        {
-            Debug.Log("Card data handler object not found.");
-        }
-        cardDataHandler.Initialize();
-
-        // TODO: Remove
-        currentKanji = cardDataHandler.GetRandomKanji("N5");
-
-        // Text
-        kanjiText = GetComponentInChildren<TextMeshProUGUI>();
-        if (kanjiText == null)
-        {
-            Debug.LogError("UIHandler: Cannot find component TextMeshProUGUI in children.");
-        }
-
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
         
+        if (m_kanjiText == null)
+        {
+            Debug.LogError("Card::Kanji text field is null");
+        }
+        if(m_pronunciationText == null)
+        {
+            Debug.LogError("Card::Pronunciation text field is null");
+        }
+        if (m_definitionText == null)
+        {
+            Debug.LogError("Card::Definition text field is null");
+        }
     }
 
-    public void SetKanjiText(KanjiInfo _kanjiInfo)
+    private void SetText(KanjiInfo _kanjiInfo)
     {
-        kanjiText.text = _kanjiInfo.KanjiChar;
-        pronunciationText.text = _kanjiInfo.Pronunciation;
-        definitionText.text = _kanjiInfo.Definition;
+        m_kanjiText.text = _kanjiInfo.KanjiChar;
+        m_pronunciationText.text = _kanjiInfo.Pronunciation;
+        m_definitionText.text = _kanjiInfo.Definition;
+    }
+
+    public void GetNextKanji(string _jlptLeveel)
+    {
+            SetText(CardDataHandler.GetRandomKanji("N5"));
     }
 
 }

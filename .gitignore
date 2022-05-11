@@ -73,7 +73,9 @@ crashlytics-build.properties
 
 /[Aa]ssets/*.meta
 /[Aa]ssets/Scripts/*.meta
+/[Aa]ssets/Scripts/KanjiCard/*.meta
 /[Aa]ssets/Scenes/*.meta
 /[Aa]ssets/Tests/*.meta
 /[Aa]ssets/Tests/EditMode/*.meta
 /[Aa]ssets/TextResources/*.meta
+/[Aa]ssets/Fonts/*.meta

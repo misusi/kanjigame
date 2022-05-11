@@ -7,17 +7,17 @@ namespace KanjiCard
 
     public class CardDataHandler : MonoBehaviour
     {
-        public List<KanjiInfo> KanjiList;
-        public List<KanjiInfo> N5KanjiList = new List<KanjiInfo>();
-        public List<KanjiInfo> N4KanjiList = new List<KanjiInfo>();
-        public List<KanjiInfo> N3KanjiList = new List<KanjiInfo>();
-        public List<KanjiInfo> N2KanjiList = new List<KanjiInfo>();
-        public CsvReader csvReader;
-        public string csvPath = "Assets/TextResources/kanjiList.csv";
+        private static List<KanjiInfo> KanjiList;
+        private static List<KanjiInfo> N5KanjiList = new List<KanjiInfo>();
+        private static List<KanjiInfo> N4KanjiList = new List<KanjiInfo>();
+        private static List<KanjiInfo> N3KanjiList = new List<KanjiInfo>();
+        private static List<KanjiInfo> N2KanjiList = new List<KanjiInfo>();
+        private static CsvReader csvReader;
+        private static string csvPath = "Assets/TextResources/kanjiList.csv";
 
         void Awake()
         {
-
+            Initialize();
         }
         void Start()
         {
@@ -29,14 +29,14 @@ namespace KanjiCard
 
         }
 
-        public void Initialize()
+        private void Initialize()
         {
             csvReader = new CsvReader();
             KanjiList = csvReader.ReadKanjiFromCsv(csvPath);
             SplitKanjiOnJlptLevel();
         }
 
-        public KanjiInfo GetRandomKanji(string _jlptLevel = "ANY")
+        public static KanjiInfo GetRandomKanji(string _jlptLevel = "ANY")
         {
             KanjiInfo kanji = new KanjiInfo();
             switch (_jlptLevel)
