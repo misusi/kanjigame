@@ -80,3 +80,20 @@ crashlytics-build.properties
 /[Aa]ssets/TextResources/*.meta
 /[Aa]ssets/Fonts/*.meta
 /architecture.txt
+/Assets/SU3DJPFont
+/Assets/Fonts/NotoSansCJK-VF.ttf.ttc
+/Assets/Fonts/NotoSansCJKjp-Regular.otf
+/Assets/Fonts/NotoSansCJKjp-VF SDF.asset
+/Assets/Fonts/NotoSansCJKjp-VF.ttf
+/Assets/Fonts/NotoSerifJP-Medium SDF.asset
+/Assets/Fonts/SourceHanSans-Regular.otf
+/Assets/Fonts/SourceHanSans-Regular SDF.asset
+/Assets/Fonts/SourceHanSans-Normal.otf
+/Assets/Fonts/SourceHanSans-Normal SDF.asset
+/Assets/Fonts/SourceHanSans-Medium.otf
+/Assets/Fonts/SourceHanSans-Medium SDF.asset
+/Assets/Fonts/SourceHanSans-Bold.otf
+/Assets/Fonts/SourceHanSans-Bold SDF.asset
+/Assets/Fonts/NotoSerifJP-Regular.otf
+/Assets/Fonts/NotoSerifJP-Regular SDF.asset
+/Assets/Fonts/NotoSerifJP-Medium.otf

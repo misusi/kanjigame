@@ -185,8 +185,8 @@ MonoBehaviour:
 
 '
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 9a981f259e7878349bc5a5f045aca257, type: 2}
-  m_sharedMaterial: {fileID: 6957875518669008616, guid: 9a981f259e7878349bc5a5f045aca257, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: e7b31dfeb60b5454a9ee33775c3a15cb, type: 2}
+  m_sharedMaterial: {fileID: 1792641041029697200, guid: e7b31dfeb60b5454a9ee33775c3a15cb, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -320,8 +320,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: Kanji Char Text
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 9a981f259e7878349bc5a5f045aca257, type: 2}
-  m_sharedMaterial: {fileID: 6957875518669008616, guid: 9a981f259e7878349bc5a5f045aca257, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: e7b31dfeb60b5454a9ee33775c3a15cb, type: 2}
+  m_sharedMaterial: {fileID: 1792641041029697200, guid: e7b31dfeb60b5454a9ee33775c3a15cb, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -583,8 +583,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: Definition Text
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 9a981f259e7878349bc5a5f045aca257, type: 2}
-  m_sharedMaterial: {fileID: 6957875518669008616, guid: 9a981f259e7878349bc5a5f045aca257, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: e7b31dfeb60b5454a9ee33775c3a15cb, type: 2}
+  m_sharedMaterial: {fileID: 1792641041029697200, guid: e7b31dfeb60b5454a9ee33775c3a15cb, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -1346,7 +1346,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b962ca25ab518f84f91cfb067f4414d2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_button: {fileID: 0}
   m_kanjiText: {fileID: 141030019}
   m_pronunciationText: {fileID: 135886884}
   m_definitionText: {fileID: 589437465}

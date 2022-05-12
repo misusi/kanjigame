@@ -12,7 +12,6 @@ namespace Game.GameObjects
 public class Card : MonoBehaviour
 {
     private KanjiInfo m_currentKanji = new KanjiInfo();
-    [SerializeField] private Button m_button;
     [SerializeField] private TextMeshProUGUI m_kanjiText;
     [SerializeField] private TextMeshProUGUI m_pronunciationText;
     [SerializeField] private TextMeshProUGUI m_definitionText;
