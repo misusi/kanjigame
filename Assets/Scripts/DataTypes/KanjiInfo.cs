@@ -1,7 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 
-namespace KanjiCard
+namespace Game.DataTypes
 {
 
     public class KanjiInfo

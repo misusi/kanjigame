@@ -1,18 +1,19 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using Game.DataTypes;
+using Game.Files.Csv;
 
-namespace KanjiCard
+namespace Game.DataManagers
 {
 
-    public class CardDataHandler : MonoBehaviour
+    public class CardDataManager : MonoBehaviour
     {
         private static List<KanjiInfo> KanjiList;
         private static List<KanjiInfo> N5KanjiList = new List<KanjiInfo>();
         private static List<KanjiInfo> N4KanjiList = new List<KanjiInfo>();
         private static List<KanjiInfo> N3KanjiList = new List<KanjiInfo>();
         private static List<KanjiInfo> N2KanjiList = new List<KanjiInfo>();
-        private static CsvReader csvReader;
         private static string csvPath = "Assets/TextResources/kanjiList.csv";
 
         void Awake()
@@ -31,8 +32,9 @@ namespace KanjiCard
 
         private void Initialize()
         {
-            csvReader = new CsvReader();
-            KanjiList = csvReader.ReadKanjiFromCsv(csvPath);
+            KanjiList = Files.Csv.CsvConverter
+                .csvToKanji(CsvReader
+                .GetStringListsFromCsvRows(csvPath));
             SplitKanjiOnJlptLevel();
         }
 

@@ -3,8 +3,10 @@ using System.Collections.Generic;
 using TMPro;
 using UnityEngine;
 using UnityEngine.UI;
+using Game.DataTypes;
+using Game.DataManagers;
 
-namespace KanjiCard
+namespace Game.GameObjects
 {
 
 public class Card : MonoBehaviour
@@ -41,7 +43,7 @@ public class Card : MonoBehaviour
 
     public void GetNextKanji(string _jlptLeveel)
     {
-            SetText(CardDataHandler.GetRandomKanji("N5"));
+        SetText(CardDataManager.GetRandomKanji("N5"));
     }
 
 }

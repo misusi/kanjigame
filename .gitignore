@@ -79,3 +79,4 @@ crashlytics-build.properties
 /[Aa]ssets/Tests/EditMode/*.meta
 /[Aa]ssets/TextResources/*.meta
 /[Aa]ssets/Fonts/*.meta
+/architecture.txt
