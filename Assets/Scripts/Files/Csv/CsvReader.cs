@@ -13,12 +13,12 @@ namespace Game.Files.Csv
         {
             List < List<string> > listOfStringLists = new List<List<string>>();
             StreamReader reader = new StreamReader(csvPath, true);
+            
             // Get rid of headings line
-            string[] headings = reader.ReadLine().Split(',');// Don't need
+            //string[] headings = reader.ReadLine().Split(',');// Don't need
 
             while (!reader.EndOfStream)
             {
-                // Remove heading
                 string newRow = reader.ReadLine();
 
                 // Find indexes of commas (that aren't inside quotes)
@@ -45,15 +45,31 @@ namespace Game.Files.Csv
                 }
 
                 // Create list of strings (substrings) from the found indexes
-                List<string> rowStrings = new List<string> { 
-                    newRow.Substring(0, breakIndexes[0]),
-                    newRow.Substring(breakIndexes[0] + 1, breakIndexes[1] - breakIndexes[0] - 1).Trim('"'),
-                    newRow.Substring(breakIndexes[1] + 1, breakIndexes[2] - breakIndexes[1] - 1).Trim('"'),
-                    newRow.Substring(breakIndexes[2] + 1, newRow.Length - breakIndexes[2] - 1).Trim('"'),
-                };
+                int prevBreakIndex = 0;
+                List<string> rowStrings = new List<string>();
+                foreach (int breakIndex in breakIndexes)
+                {
+                    if (prevBreakIndex == 0)
+                    {
+                        rowStrings.Add(newRow.Substring(0, breakIndexes[0]).Trim('"'));
+                    }
+                    else if (breakIndex == breakIndexes[breakIndexes.Count-1])
+                    {
+                        rowStrings.Add(newRow.Substring(breakIndex + 1, newRow.Length - breakIndex - 1).Trim('"'));
+                    }
+                    else
+                    {
+                        rowStrings.Add(newRow.Substring(prevBreakIndex + 1, breakIndex - prevBreakIndex - 1).Trim('"'));
+                    }
+                    prevBreakIndex = breakIndex;
+                }
 
-            // Append this string list to the total list from the csv file
-            listOfStringLists.Add(rowStrings);
+                // Append this string list to the total list from the csv file
+                listOfStringLists.Add(rowStrings);
+                for (int i = 0; i < rowStrings.Count; i++)
+                {
+                    Debug.Log(rowStrings[i]);
+                }
             };
             return listOfStringLists;
         }
