@@ -1,0 +1,17 @@
+{
+    "name": "DataManagers",
+    "rootNamespace": "",
+    "references": [
+        "GUID:292f7ffe7801183449076902d02cca57",
+        "GUID:d0cab146c723db741ad58c4243d3db85"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
