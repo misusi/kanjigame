@@ -26,24 +26,24 @@ public class Card : MonoBehaviour
         }
         if(m_pronunciationText == null)
         {
-            Debug.LogError("Card::Pronunciation text field is null");
+            Debug.LogError("Card::Onyomi text field is null");
         }
         if (m_definitionText == null)
         {
-            Debug.LogError("Card::Definition text field is null");
+            Debug.LogError("Card::Kunyomi text field is null");
         }
     }
 
     private void SetText(KanjiInfo _kanjiInfo)
     {
-        m_kanjiText.text = _kanjiInfo.KanjiChar;
-        m_pronunciationText.text = _kanjiInfo.Pronunciation;
-        m_definitionText.text = _kanjiInfo.Definition;
+        m_kanjiText.text = _kanjiInfo.Kanji;
+        m_pronunciationText.text = _kanjiInfo.Onyomi;
+        m_definitionText.text = _kanjiInfo.Meaning;
     }
 
-    public void GetNextKanji(string _jlptLeveel)
+    public void GetNextKanji(string _jlptLevel)
     {
-        SetText(CardDataManager.GetRandomKanji("N5"));
+        SetText(CardDataManager.GetRandomKanji(_jlptLevel));
     }
 
 }

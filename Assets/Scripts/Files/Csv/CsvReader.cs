@@ -45,31 +45,20 @@ namespace Game.Files.Csv
                 }
 
                 // Create list of strings (substrings) from the found indexes
-                int prevBreakIndex = 0;
+                int prevBreakIndex = -1;
                 List<string> rowStrings = new List<string>();
                 foreach (int breakIndex in breakIndexes)
                 {
-                    if (prevBreakIndex == 0)
-                    {
-                        rowStrings.Add(newRow.Substring(0, breakIndexes[0]).Trim('"'));
-                    }
-                    else if (breakIndex == breakIndexes[breakIndexes.Count-1])
-                    {
-                        rowStrings.Add(newRow.Substring(breakIndex + 1, newRow.Length - breakIndex - 1).Trim('"'));
-                    }
-                    else
-                    {
-                        rowStrings.Add(newRow.Substring(prevBreakIndex + 1, breakIndex - prevBreakIndex - 1).Trim('"'));
-                    }
+                    rowStrings.Add(newRow.Substring(prevBreakIndex + 1, breakIndex - prevBreakIndex - 1).Trim('"'));
                     prevBreakIndex = breakIndex;
+                    if (prevBreakIndex == breakIndexes[breakIndexes.Count-1])
+                    {
+                        rowStrings.Add(newRow.Substring(breakIndex + 1, newRow.Length - prevBreakIndex - 1).Trim('"'));
+                    }
                 }
 
                 // Append this string list to the total list from the csv file
                 listOfStringLists.Add(rowStrings);
-                for (int i = 0; i < rowStrings.Count; i++)
-                {
-                    Debug.Log(rowStrings[i]);
-                }
             };
             return listOfStringLists;
         }

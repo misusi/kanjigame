@@ -15,10 +15,11 @@ namespace Game.Files.Csv
             {
                 kanjiList.Add(new KanjiInfo
                 {
-                    KanjiChar = stringList[0],
-                    Pronunciation = stringList[1],
-                    Definition = stringList[2],
-                    JlptLevel = stringList[3]
+                    Kanji = stringList[0],
+                    Onyomi = stringList[1],
+                    Kunyomi = stringList[2],
+                    Meaning = stringList[3],
+                    JlptLevel = stringList[4]
                 });
             }
             return kanjiList;
