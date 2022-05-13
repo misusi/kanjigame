@@ -46,16 +46,16 @@ namespace Game.DataManagers
                     kanji = KanjiList[Random.Range(0, KanjiList.Count)];
                     break;
                 case ("N5"):
-                    kanji = N5KanjiList[Random.Range(0, N5KanjiList.Count)];
+                    kanji = N5KanjiList[Random.Range(0, N5KanjiList.Count)]; // <- WHY IS THIS EMPTY????
                     break;
                 case ("N4"):
-                    kanji = N5KanjiList[Random.Range(0, N4KanjiList.Count)];
+                    kanji = N4KanjiList[Random.Range(0, N4KanjiList.Count)];
                     break;
                 case ("N3"):
-                    kanji = N5KanjiList[Random.Range(0, N3KanjiList.Count)];
+                    kanji = N3KanjiList[Random.Range(0, N3KanjiList.Count)];
                     break;
                 case ("N2"):
-                    kanji = N5KanjiList[Random.Range(0, N2KanjiList.Count)];
+                    kanji = N2KanjiList[Random.Range(0, N2KanjiList.Count)];
                     break;
                 default:
                     // TODO: Throw error because csv file has an error
